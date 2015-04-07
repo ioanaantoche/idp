@@ -1,0 +1,4 @@
+INDEX VERSION 1.127+/home/ioana/facultate/idp/idp/.metadata/.plugins/org.eclipse.jdt.core
+3355452292.index
+3272366557.index
+3885319407.index
